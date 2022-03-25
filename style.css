@@ -49,24 +49,24 @@ hr{
     background-color: black;
 }
 h2{
-   padding: 15px 0px 0px 140px;
+   padding: 15px 0px 0px 120px;
     font-weight: 1000;
     font-size: 35px;
     word-spacing: 5px;
 }
 h3{
-    padding-left: 140px;
+    padding-left: 120px;
     font-size: 22px;
     font-weight: bolder;
 }
 p{
     padding-top: 0px;
-    padding-left: 140px;
+    padding-left: 120px;
     font-size: 20px;
     font-weight: 550;
 }
 ul li{
-    margin-left: 150px;
+    margin-left: 130px;
     font-size: 18px;
     word-spacing: 2px;
 }
